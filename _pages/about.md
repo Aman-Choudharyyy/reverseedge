@@ -37,7 +37,7 @@ The name *ReverseEdge* represents a dual-edged mindset: understanding the offens
 
 ## 📬 Let's Connect
 
-If you're interested in cybersecurity, building detection tools, or collaborating on open-source security projects — feel free to [reach out](/contact/) or connect with me on [GitHub](https://github.com/Aman-Choudharyyy).
+If you're interested in cybersecurity, building detection tools, or collaborating on open-source security projects — feel free to [reach out](/aman.r.choudharyy@gmail.com/) or connect with me on [GitHub](https://github.com/Aman-Choudharyyy).
 
 ---
 
