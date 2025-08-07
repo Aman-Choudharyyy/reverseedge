@@ -1,8 +1,44 @@
 ---
-permalink: /about/
+layout: single
 title: "About"
+permalink: /about/
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# About Me
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hey, I'm Aman Choudhary — a cybersecurity enthusiast and student passionate about building real-time, threat-detecting systems that don't just defend — they counter.
+
+I created **ReverseEdge** to showcase my journey into cybersecurity, from understanding how threats work to building tools that detect and respond to them efficiently. I believe security shouldn't be passive — it should be proactive, intelligent, and adaptive.
+
+---
+
+## 🔍 What I Do
+
+- 🐀 **Reverse Engineering & Malware Analysis**  
+  Breaking down how malicious tools work and how they can be stopped.
+
+- ⚙️ **EDR & Detection Engineering**  
+  Designing real-time detection systems to hunt down threats as they happen.
+
+- 📡 **Red Team Labs**  
+  Crafting offensive tools (like RATs) for learning, training, and simulating attacks in controlled environments.
+
+- 📊 **Security Automation & Dashboards**  
+  Building visual dashboards to bring clarity and insight to security data.
+
+---
+
+## 📌 Why ReverseEdge?
+
+The name *ReverseEdge* represents a dual-edged mindset: understanding the offense to strengthen the defense. My aim is to create tools and write content that help others learn how to think like an attacker to build stronger defenses.
+
+---
+
+## 📬 Let's Connect
+
+If you're interested in cybersecurity, building detection tools, or collaborating on open-source security projects — feel free to [reach out](/contact/) or connect with me on [GitHub](https://github.com/Aman-Choudharyyy).
+
+---
+
+> “Defense is not just a wall, it’s a weapon. Know the edge. Reverse it.”
