@@ -1,27 +1,54 @@
-# Minimal Mistakes remote theme starter
+# ReverseEdge
+[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Aman-Choudharyyy/reverseedge)
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+ReverseEdge is a cybersecurity blog dedicated to the principle that sharp defense is born from understanding the offense. This repository contains the source code for the blog, which documents my journey into building proactive, intelligent, and adaptive security solutions.
 
-Contains basic configuration to get you a site with:
+> "Where cyber threats meet sharp defense."
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## 🛡️ Core Focus Areas
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+This blog explores a range of cybersecurity topics with a hands-on approach:
 
----
+*   **Reverse Engineering & Malware Analysis**: Deconstructing how malicious tools work to learn how they can be neutralized.
+*   **EDR & Detection Engineering**: Designing and implementing real-time detection systems to hunt for threats as they happen.
+*   **Red Team Labs**: Crafting offensive tools (like RATs) for learning, training, and simulating attacks in controlled environments.
+*   **Security Automation & Dashboards**: Building visual dashboards and automated scripts to bring clarity and insight to security data.
 
-## Troubleshooting
+## 🧠 The "ReverseEdge" Philosophy
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+The name **ReverseEdge** represents a dual-edged mindset: understanding offensive tactics to strengthen defensive strategies. The content aims to help others learn how to think like an attacker to build more resilient and effective defenses.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## ✍️ About the Author
+
+My name is **Aman Choudhary**, a final-year B.Tech Computer Science student passionate about cybersecurity. My primary interests lie in defensive security strategies, threat detection, and incident response, with the goal of building secure digital environments for tomorrow.
+
+## 🚀 Running the Blog Locally
+
+This site is built using Jekyll and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme. To set up a local development environment:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Aman-Choudharyyy/reverseedge.git
+    cd reverseedge
+    ```
+
+2.  **Install dependencies:**
+    Ensure you have Ruby and Bundler installed.
+    ```bash
+    bundle install
+    ```
+
+3.  **Serve the site:**
+    ```bash
+    bundle exec jekyll serve
+    ```
+    The blog will be available at `http://localhost:4000`.
+
+## 📫 Let's Connect
+
+If you're interested in cybersecurity, defensive engineering, or potential collaborations, feel free to connect with me.
+
+*   **Portfolio:** [portfolio-amanchoudhary.netlify.app](https://portfolio-amanchoudhary.netlify.app/)
+*   **X (formerly Twitter):** [@Cybeast_inn](https://x.com/Cybeast_inn)
+*   **GitHub:** [@Aman-Choudharyyy](https://github.com/Aman-Choudharyyy)
+*   **LinkedIn:** [Aman Choudhary](https://www.linkedin.com/in/aman-choudhary-53305b263/)
